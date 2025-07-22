@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋 I'm Suryateja Kesireddy
 
-<!--
-**suryateja-0423/suryateja-0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Java Full Stack Developer  
+🌱 Currently learning **Java, Spring Boot, SQL, React.js**  
+💻 Projects:
+- Job Portal (React + Spring Boot)
+- Instagram Clone
+- Laundry Management System
 
-Here are some ideas to get you started:
+📫 Contact me:
+- Email: ksuryateja170@gmail.com
+- LinkedIn: [Suryateja on LinkedIn](https://www.linkedin.com/in/suryateja-kesireddy-881367278/)
+- GitHub: [github.com/suryateja-0423](https://github.com/suryateja-0423)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I enjoy backend development and solving real-world problems.
